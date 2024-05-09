@@ -4,7 +4,7 @@
     - Create the `.tmux` directory in your home folder:
 
     ```bash
-    mkdir -p ~/.tmux
+    mkdir --parent --verbose ~/.tmux
     ```
 
 2. **Create the Server Check Script**

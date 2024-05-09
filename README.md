@@ -1,7 +1,3 @@
-# Tmux Server Monitoring Setup
-
-This guide will help you set up a server monitoring system using tmux on your server. You'll be able to monitor the availability of various servers from the tmux status bar.
-
 ### Steps
 
 1. **Create the Directory for Scripts**

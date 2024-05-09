@@ -138,7 +138,3 @@ This guide will help you set up a server monitoring system using tmux on your se
     set -g status-right "#(~/.tmux/display_status.sh)"
     set -g status-interval 5  # This makes tmux update the status bar every 5 seconds
     ```
-
-### Conclusion
-
-Follow these steps to monitor the status of your servers efficiently in tmux. Make sure to customize the scripts and tmux configuration to fit your server setup and monitoring needs.

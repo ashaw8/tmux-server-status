@@ -132,5 +132,5 @@
 
     ```bash
     set -g status-right "#(~/.tmux/display_status.sh)"
-    set -g status-interval 5  # This makes tmux update the status bar every 5 seconds
+    set -g status-interval 3  # This makes tmux update the status bar every 3 seconds
     ```
